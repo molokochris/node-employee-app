@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molokochris/node-employee-app.git"
+  },
+  "author": "MC Poopedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molokochris/node-employee-app/issues"
+  },
+  "homepage": "https://github.com/molokochris/node-employee-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.6"
+  }
+}
